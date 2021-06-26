@@ -11,6 +11,7 @@ flask run
 After starting the API,<br>
 set CWD to summarization-frontend and run<br>
 ```
+cd ./summarization-frontend
 npm start
 ```
 <br> 
