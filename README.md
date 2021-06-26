@@ -1,2 +1,13 @@
 # Text_Summarization
- Text Summarization with Frontend in React and Flask API
+ Text Summarization with Frontend in React and Flask API<br>
+<br>
+Make sure you have FLask Installed.<br>
+First run the Flask API on default port (5000)<br>
+> set FLASK_API=summarization-api
+> flask run
+<br>
+After starting the API,<br>
+set CWD to summarization-frontend and run<br>
+>npm start
+
+Enter text to summarization and click submit.
