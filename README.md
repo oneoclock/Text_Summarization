@@ -8,8 +8,8 @@ set FLASK_API=summarization-api
 flask run
 ```
 <br>
-After starting the API,<br>
-set CWD to summarization-frontend and run<br>
+After starting the API<br>
+set CWD to summarization frontend and run<br>
 ```bash
 cd ./summarization-frontend
 npm start
