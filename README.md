@@ -8,6 +8,6 @@ First run the Flask API on default port (5000)<br>
 <br>
 After starting the API,<br>
 set CWD to summarization-frontend and run<br>
-> npm start
-
+> npm start<br>
+<br>
 Enter text to summarization and click submit.
