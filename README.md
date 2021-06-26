@@ -1,5 +1,5 @@
 # Text_Summarization
- Text Summarization with Frontend in React and Flask API..
+ Text Summarization with Frontend in React and Flask API\
 ..
 Make sure you have Flask Installed.<br>
 First run the Flask API on default port (5000)<br>
